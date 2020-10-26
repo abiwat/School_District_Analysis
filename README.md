@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-##Overview of the School District Analysis:
+## Overview of the School District Analysis:
 
 After completeing the preliminary data analysis, the school board requested additional analysis after learning there was evidence of academic dishonesty.  To update the data, grades for Thomas High School ninth graders were removed from the statistical analysis.  Once the data was clean, the original analysis can be compared to the adjusted analysis.
 
